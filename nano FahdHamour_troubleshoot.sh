@@ -1,9 +1,5 @@
 #!/bin/bash
 
-# Name: FahdHamour_troubleshoot.sh
-# Author: Fahd Hamour
-# Purpose: Interactive troubleshooting guide for Ubuntu and CentOS
-# Date: April 29, 2026
 
 echo "========================================"
 echo " NETWORK TROUBLESHOOTING TOOL"
