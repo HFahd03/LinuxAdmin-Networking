@@ -1,9 +1,5 @@
 #!/bin/bash
 
-# Name: FahdHamour_network_dump.sh
-# Author: Fahd Hamour
-# Purpose: Dump network and system information to screen and file
-# Date: 4/29/2026
 
 OUTPUT_FILE="/home/$USER/FahdHamour_network_report_$(date +%F).txt"
 
